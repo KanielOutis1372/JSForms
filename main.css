@@ -1,0 +1,26 @@
+.control {
+    position: fixed;
+    z-index: 1;
+}
+
+.control .btn {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.form-item {
+    margin-left: auto;
+}
+
+.form-item input {
+    width: 100%;
+}
+
+.form-item input, label, select { 
+    margin-bottom: 10px;
+}
+
+.form-check-input {
+    width: 30px !important;
+    margin-left: 0px;
+}
